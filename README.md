@@ -2,7 +2,7 @@
 
 A software engineer passionate about technology and mathematics. I love writing programs around poker, gaming and finance. 
 
-I studied at the University of Reading, achieving a First class degree in Mathematics with Computer Science and winning departmental achievement awards for my work. My final year project was on the analysis of time series, building statistical models to understand and forecast from stochastic data, such as pricing of a financial instruments and meteorological data.
+I studied at the University of Reading, achieving a First class degree in Mathematics with Computer Science and winning departmental achievement awards for my work. My final year project was on the analysis of time series, building statistical models to understand and make forecasts from stochastic data, such as pricing of financial instruments and meteorological data.
 
 *I often go by FakePumpkin7 online*
 
