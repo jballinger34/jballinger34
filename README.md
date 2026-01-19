@@ -6,12 +6,13 @@ I studied at the University of Reading, achieving a First class degree in Mathem
 
 *I often go by FakePumpkin7 online*
 
-### Current Projects 
+### Current Projects
+#### [PokerSolvers](https://github.com/jballinger34/PokerSolvers)
+Implementing different solving algorithms for Heads-up Texas Hold'em poker.
 #### [FPL-API](https://github.com/jballinger34/FPL-API)
 Using the Fantasy Premier League API to pick players for my fantasy football team.
 
-#### [PokerSolvers](https://github.com/jballinger34/PokerSolvers)
-Implementing different solving algorithms for Heads-up Texas Hold'em poker.
+
 
 ### Technologies
 Java, Python, C, Gradle, Unix, R, Matlab
